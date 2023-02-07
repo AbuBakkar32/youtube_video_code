@@ -9,7 +9,7 @@ cloud-init==22.1
 colorama==0.3.7
 configobj==5.0.6
 constantly==15.1.0
-cryptography==2.1.4
+cryptography==39.0.1
 distro-info===0.18ubuntu0.18.04.1
 greenlet==0.4.12
 httpie==0.9.8
