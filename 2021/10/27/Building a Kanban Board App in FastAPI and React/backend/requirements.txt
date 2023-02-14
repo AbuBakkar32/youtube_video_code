@@ -19,7 +19,7 @@ python-multipart==0.0.5
 pytz==2021.3
 six==1.16.0
 sniffio==1.2.0
-starlette==0.16.0
+starlette==0.25.0
 tortoise-orm==0.17.8
 typing-extensions==3.10.0.2
 uvicorn==0.15.0
