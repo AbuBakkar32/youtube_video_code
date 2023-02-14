@@ -18,7 +18,7 @@ PyPika==0.44.1
 python-multipart==0.0.5
 pytz==2020.5
 six==1.15.0
-starlette==0.13.6
+starlette==0.25.0
 toml==0.10.2
 tortoise-orm==0.16.19
 typing-extensions==3.7.4.3
