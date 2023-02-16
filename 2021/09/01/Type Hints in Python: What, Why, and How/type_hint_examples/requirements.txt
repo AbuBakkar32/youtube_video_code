@@ -10,4 +10,4 @@ mypy-extensions==0.4.3
 SQLAlchemy==1.4.23
 toml==0.10.2
 typing-extensions==3.10.0.1
-Werkzeug==2.0.1
+Werkzeug==2.2.3
